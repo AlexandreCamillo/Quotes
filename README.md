@@ -1,24 +1,4 @@
-# README
+# Quotes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exploring the latest features of Ruby on Rails (7.2), this project dives into Turbo Drive, Turbo Frames, and Turbo Streams to enhance web application performance and interactivity. It also leverages Rux for building reusable components and Sorbet for robust static typing.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
